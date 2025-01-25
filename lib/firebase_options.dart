@@ -53,9 +53,9 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyCgOUJCHBdJXoIfchkkvBe4BejwpH6ClsI',
-    appId: '1:366237349778:android:0c2588fc110d9e092e334b',
-    messagingSenderId: '366237349778',
+    apiKey: 'YOUR API KEY',
+    appId: 'YOUR APP ID ',
+    messagingSenderId: 'YOUR SENDER ID',
     projectId: 'calendar-app-16358',
     storageBucket: 'calendar-app-16358.appspot.com',
   );

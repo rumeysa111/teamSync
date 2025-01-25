@@ -44,7 +44,7 @@ class _TeamLeaderCalendarState extends State<TeamLeaderCalendar> {
   }
   void _fetchPublicHolidays() async {
     try {
-      final response = await http.get(Uri.parse('https://www.googleapis.com/calendar/v3/calendars/tr.turkish%23holiday@group.v.calendar.google.com/events?key=AIzaSyDeqhvkAhLeU8tLg86SsnfrElerT0RgbK4')); // Google Calendar API URL'si
+      final response = await http.get(Uri.parse('YOUR GOOGLE CALENDAR API URL ')); // Google Calendar API URL'si
       if (response.statusCode == 200) {
         final data = json.decode(response.body);
         List<dynamic> holidays = data['items']; // 'items' kısmındaki verileri al
