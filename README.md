@@ -77,8 +77,8 @@ TeamSync is a comprehensive team management application developed using **Flutte
 
 Here are some screenshots of the TeamSync application:
 
-!(images/resim1.jpg)
-!(images/resim2.jpg)
-!(images/resim3.jpg)
-!(images/resim4.jpg)
-!(images/resim5.jpg)
+![Screenshot 1](images/resim1.jpg)
+![Screenshot 2](images/resim2.jpg)
+![Screenshot 3](images/resim3.jpg)
+![Screenshot 4](images/resim4.jpg)
+![Screenshot 5](images/resim5.jpg)
